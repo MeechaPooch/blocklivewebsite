@@ -1,0 +1,21 @@
+{
+  "name": "blocklivewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-livereload": "^1.4.4",
+    "express": "^4.19.2",
+    "node-dev": "^8.0.0"
+  }
+}
